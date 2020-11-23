@@ -1,4 +1,3 @@
-const { REACT_APP_MY_API } = process.env;
+export const API_KEY = "";
 
-
-export default REACT_APP_MY_API;
+export default API_KEY;
